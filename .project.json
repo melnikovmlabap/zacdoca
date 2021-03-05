@@ -10,7 +10,8 @@
     "excludedFolders": [
       "test"
     ],
-    "buildRequired": true
+    "buildRequired": true,
+    "lastBuildDateTime": "Fri, 05 Mar 2021 10:07:58 GMT"
   },
   "generation": [
     {
@@ -49,5 +50,9 @@
     "notifyBeforePushLevel": "Error",
     "blockPush": false,
     "blockPushLevel": "Error"
+  },
+  "deploy": {
+    "destination": "DS4",
+    "name": "zacdoca"
   }
 }
