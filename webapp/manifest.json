@@ -125,7 +125,11 @@
 				"entitySet": "zacdoca_p",
 				"component": {
 					"name": "sap.suite.ui.generic.template.ListReport",
-					"list": true
+					"list": true,
+                    "settings": {
+                        "isWorklist": true,
+                        "multiSelect": true
+                    }
 				},
 				"pages": {
 					"ObjectPage|zacdoca_p": {
